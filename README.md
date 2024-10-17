@@ -1,3 +1,3 @@
 # visual_schema_design
 
-![Uploading Untitled.svg…]()
+![https://github.com/palacharlanarendra/visual_schema_design/blob/main/Untitled.svg]()
