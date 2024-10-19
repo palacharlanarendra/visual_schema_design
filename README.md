@@ -1,3 +1,3 @@
 # visual_schema_design
 
-![Uploading Untitled.png…]()
+![Uploading Untitled.png]()
