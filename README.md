@@ -1,3 +1,3 @@
 # visual_schema_design
 
-![Uploading Untitled.png]()
+![Untitled.png](https://raw.githubusercontent.com/palacharlanarendra/visual_schema_design/main/Untitled.png)
